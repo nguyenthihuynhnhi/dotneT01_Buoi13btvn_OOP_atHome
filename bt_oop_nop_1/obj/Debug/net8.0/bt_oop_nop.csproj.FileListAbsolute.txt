@@ -1,0 +1,14 @@
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\bin\Debug\net8.0\bt_oop_nop.exe
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\bin\Debug\net8.0\bt_oop_nop.deps.json
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\bin\Debug\net8.0\bt_oop_nop.runtimeconfig.json
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\bin\Debug\net8.0\bt_oop_nop.dll
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\bin\Debug\net8.0\bt_oop_nop.pdb
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\obj\Debug\net8.0\bt_oop_nop.GeneratedMSBuildEditorConfig.editorconfig
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\obj\Debug\net8.0\bt_oop_nop.AssemblyInfoInputs.cache
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\obj\Debug\net8.0\bt_oop_nop.AssemblyInfo.cs
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\obj\Debug\net8.0\bt_oop_nop.csproj.CoreCompileInputs.cache
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\obj\Debug\net8.0\bt_oop_nop.dll
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\obj\Debug\net8.0\refint\bt_oop_nop.dll
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\obj\Debug\net8.0\bt_oop_nop.pdb
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\obj\Debug\net8.0\bt_oop_nop.genruntimeconfig.cache
+E:\01-Bootcamp-DotNet\CSharp-core\buoi13_oop_ke_thua\baitap_oop_nop\bt_oop_nop\obj\Debug\net8.0\ref\bt_oop_nop.dll

@@ -1,0 +1,30 @@
+[
+  {
+    "MaHocSinh": 0,
+    "TenHocSinh": "huynh yến",
+    "DiemToan": 16,
+    "DiemVan": 16,
+    "DiemAnh": 16
+  },
+  {
+    "MaHocSinh": 1,
+    "TenHocSinh": "ai vi",
+    "DiemToan": 9,
+    "DiemVan": 9,
+    "DiemAnh": 10
+  },
+  {
+    "MaHocSinh": 2,
+    "TenHocSinh": "anh minh",
+    "DiemToan": 9,
+    "DiemVan": 8,
+    "DiemAnh": 9
+  },
+  {
+    "MaHocSinh": 4,
+    "TenHocSinh": "ch\u00FA N\u00F4ng",
+    "DiemToan": 10,
+    "DiemVan": 10,
+    "DiemAnh": 10
+  }
+]
